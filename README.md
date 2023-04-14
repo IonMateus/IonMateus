@@ -15,10 +15,17 @@
   
 </div>
 
--->
+
+<!-- <img height="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
+  <p>&nbsp&nbsp HTML &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp CSS &nbsp&nbsp&nbsp&nbsp JS &nbsp Python</p>
+
+ -->
+
 
 
 <h1>Ion Mateus</h1>
+
+## Status
 
 <div>
   <a href="https://github.com/ionmateus"></a>
@@ -26,25 +33,43 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionmateus&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<h2>Linguagens Conhecidas</h2>
+## Linguagens Conhecidas
 <div style="display: inline_block"><br>
-  <img height="40" alt="Ion-HTML" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" alt="Ion-JS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" alt="Ion-Python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" alt="Ion-MySQL" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <!-- <img height="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     -->
-  <!-- <img height="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     -->
-  <!-- <img height="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     -->
+  <table>
+  <td> <br> 
+  <img height="40" width="40" alt="Ion-HTML" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+   &nbsp HTML - Nível básico
+  <br><br>
+        
+  <img height="40" width="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  &nbsp CSS - Nível básico      
+  <br><br>
+        
+  <img height="40" width="40" alt="Ion-JS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  &nbsp JavaScript - Nível básico      
+  <br><br> 
+        
+  <img height="40" width="40" alt="Ion-Python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp Ptyhon - Nível básico      
+  <br><br> 
+        
+  <img height="40" width="40" alt="Ion-MySQL" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  &nbsp MySQL - Nível básico      
+  <br><br>
+        
+  </td>
+        
+        
+        
+  </table>
 </div>
 
+
+
 <br>
-<h2>Redes Sociais</h2>
 
+## Redes Sociais
 <a href="https://instagram.com/ion_mateus_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-
 
 
 
