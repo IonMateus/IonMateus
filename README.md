@@ -38,23 +38,23 @@
   <table>
   <td> <br> 
   <img height="40" width="40" alt="Ion-HTML" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-   &nbsp HTML - Nível básico
+   &nbsp HTML - Iniciante
   <br><br>
         
   <img height="40" width="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp CSS - Nível básico      
+  &nbsp CSS - Iniciante  
   <br><br>
         
   <img height="40" width="40" alt="Ion-JS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  &nbsp JavaScript - Nível básico      
+  &nbsp JavaScript - Iniciante    
   <br><br> 
         
   <img height="40" width="40" alt="Ion-Python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp Ptyhon - Nível básico      
+  &nbsp Ptyhon - Iniciante   
   <br><br> 
         
   <img height="40" width="40" alt="Ion-MySQL" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  &nbsp MySQL - Nível básico      
+  &nbsp MySQL - Iniciante 
   <br><br>
         
   </td>
