@@ -1,4 +1,4 @@
-<!--         
+<!--        
       
 <div> 
   <a href="https://www.youtube.com/channel/NOME" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -15,11 +15,10 @@
   
 </div>
 
+-->
 
-<!-- <img height="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
-  <p>&nbsp&nbsp HTML &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp CSS &nbsp&nbsp&nbsp&nbsp JS &nbsp Python</p>
 
- -->
+
 
 
 
@@ -31,7 +30,7 @@ Estudante do Colégio Técnico de Campinas - Unicamp, Cotuca. Cursando informát
 
 ## Status
 
-<div style="display: none;">
+<div>
   <a href="https://github.com/ionmateus"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ionmateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionmateus&layout=compact&langs_count=16&theme=dracula"/>
@@ -78,7 +77,6 @@ Estudante do Colégio Técnico de Campinas - Unicamp, Cotuca. Cursando informát
 </div>
 
 
-<br>
 
 ## Redes Sociais
 <a href="https://instagram.com/ion_mateus_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
