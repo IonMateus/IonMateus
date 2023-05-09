@@ -45,31 +45,31 @@ Estudante do Colégio Técnico de Campinas - Unicamp, Cotuca. Cursando informát
   <table>
   <td> <br> 
   <img height="40" width="40" alt="Ion-HTML" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-   &nbsp HTML - Básico
+   &nbsp⭐⭐ - HTML - Básico
   <br><br>
         
   <img height="40" width="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp CSS - Básico  
+  &nbsp⭐⭐ - CSS - Básico  
   <br><br>
         
   <img height="40" width="40" alt="Ion-JS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  &nbsp JavaScript - Iniciante    
+  &nbsp⭐ - JavaScript - Iniciante    
   <br><br> 
         
   <img height="40" width="40" alt="Ion-Python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp Ptyhon - Básico   
+  &nbsp⭐⭐ - Ptyhon - Básico   
   <br><br> 
         
   <img height="40" width="40" alt="Ion-MySQL" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  &nbsp MySQL - Iniciante 
+  &nbsp⭐ - MySQL - Iniciante 
   <br><br>
   
   <img height="40" width="40" alt="Ion-PHP" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
-  &nbsp PHP - Iniciante 
+  &nbsp✪ - PHP - Hello World 
   <br><br>
   
   <img height="40" width="40" alt="Ion-React" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  &nbsp React - Iniciante 
+  &nbsp✪ - React - Hello World 
   <br><br>
         
   </td> 
