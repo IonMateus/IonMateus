@@ -24,9 +24,9 @@
 
 <h1>Ion Mateus</h1>
 
-## Sobre
+## About
 
-Estudante do Colégio Técnico de Campinas - Unicamp, Cotuca. Cursando informática.
+Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computer science.
 
 ## Status
 
@@ -38,29 +38,29 @@ Estudante do Colégio Técnico de Campinas - Unicamp, Cotuca. Cursando informát
 
 
 
-## Linguagens Conhecidas
+## Known languages
 
 <div style="display: inline_block"><br>
   <table>
   <td> <br> 
   <img height="40" width="40" alt="Ion-HTML" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-   &nbsp⭐⭐ - HTML - Básico
+   &nbsp⭐⭐ - HTML - Basic
   <br><br>
         
   <img height="40" width="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp⭐⭐ - CSS - Básico  
+  &nbsp⭐⭐ - CSS - Basic  
   <br><br>
         
   <img height="40" width="40" alt="Ion-JS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  &nbsp⭐ - JavaScript - Iniciante    
+  &nbsp⭐ - JavaScript - Beginner       
   <br><br> 
         
   <img height="40" width="40" alt="Ion-Python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp⭐⭐ - Ptyhon - Básico   
+  &nbsp⭐⭐ - Ptyhon - Basic   
   <br><br> 
         
   <img height="40" width="40" alt="Ion-MySQL" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  &nbsp⭐ - MySQL - Iniciante 
+  &nbsp⭐ - MySQL - Beginner 
   <br><br>
   
   <img height="40" width="40" alt="Ion-PHP" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
@@ -78,6 +78,6 @@ Estudante do Colégio Técnico de Campinas - Unicamp, Cotuca. Cursando informát
 
 
 
-## Redes Sociais
+## Social media
 <a href="https://instagram.com/ion_mateus_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
