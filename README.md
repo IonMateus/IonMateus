@@ -18,10 +18,6 @@
 -->
 
 
-
-
-
-
 <h1>Ion Mateus</h1>
 
 ## About
@@ -37,42 +33,31 @@ Student at the Technical College of Campinas - Unicamp, Cotuca. Studying compute
 </div>
 
 
-
 ## Known languages
 
 <div style="display: inline_block"><br>
   <table>
   <td> <br> 
+        
   <img height="40" width="40" alt="Ion-HTML" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-   &nbsp⭐⭐ - HTML - Basic
+   &nbspHTML
   <br><br>
         
   <img height="40" width="40" alt="Ion-CSS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp⭐⭐ - CSS - Basic  
+  &nbspCSS
   <br><br>
         
   <img height="40" width="40" alt="Ion-JS" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  &nbsp⭐ - JavaScript - Beginner       
+  &nbspJavaScript     
   <br><br> 
         
   <img height="40" width="40" alt="Ion-Python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp⭐⭐ - Ptyhon - Basic   
+  &nbspPtyhon 
   <br><br> 
+
+
         
-  <img height="40" width="40" alt="Ion-MySQL" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  &nbsp⭐ - MySQL - Beginner 
-  <br><br>
-  
-  <img height="40" width="40" alt="Ion-PHP" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
-  &nbsp✪ - PHP - Hello World 
-  <br><br>
-  
-  <img height="40" width="40" alt="Ion-React" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  &nbsp✪ - React - Hello World 
-  <br><br>
-        
-  </td> 
-        
+  </td>     
   </table>
 </div>
 
