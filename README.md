@@ -25,7 +25,7 @@
 
 ## About
 
-Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computer science.
+Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computing.
 
 ## Status
 
