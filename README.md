@@ -50,7 +50,7 @@ Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computi
 </div>
 <br>
 
-
+<!--
 ## Social media
 <a href="https://instagram.com/ion_mateus_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
