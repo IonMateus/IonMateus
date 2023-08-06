@@ -27,17 +27,6 @@
 
 Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computing.
 
-## Status
-
-<div>
-  <a href="https://github.com/ionmateus"></a>
-      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ionmateus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  
-</div>
-
-
 ## Known languages
 
 <div style="display: inline_block"><br>
@@ -49,6 +38,16 @@ Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computi
  
 </div>
 <br>
+
+## Status
+
+<div>
+  <a href="https://github.com/ionmateus"></a>
+      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ionmateus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  
+</div>
 
 <!--
 ## Social media
