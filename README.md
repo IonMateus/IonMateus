@@ -21,7 +21,7 @@ Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computi
 
 ### Status
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ionmateus&bg_color=30,4682B4,000000&title_color=000&text_color=000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ionmateus&bg_color=30,4682B4,000000&title_color=000&text_color=000&include_all_commits=true&count_private=true"/>
 
 
 <!--
