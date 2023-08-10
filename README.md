@@ -1,9 +1,5 @@
 ### Hi! I'm Ion Mateus 👋
 
-### About
-
-Student at the Technical College of Campinas - Unicamp, Cotuca. Studying computing.
-
 ### 🛠 Learning
 
 <div style="display: inline_block"><br>
